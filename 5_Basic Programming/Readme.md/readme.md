@@ -1,0 +1,3 @@
+1.Go atau golang adalah bahasa pemograman yang dikembangkan oleh google ,mereka  bekerja sama dengan 3 orang tokoh handal pada tahun 2009. Robert Griesemer, Rob Pike dan Ken Thompson 
+fungsi golang adalah dapat menciptakan penyimpanan online dalam jumlah yang besar,dan membangun web dengan keamanan yang tinggi
+keunggulan golang adalah bersifat open source,memiliki fitur garbage collector,serta struktur dan algoritma yang mudah dipahami
