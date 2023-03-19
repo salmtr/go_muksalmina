@@ -1,0 +1,6 @@
+RANGKUMAN
+1.Database atau basis data adalah kumpulan informadi yang disimpan di dalam komputer secara sistematik sehingga dapat diperiksa menggunakan suatu program komputer untuk memperoleh informasi dari basis data tersebut. Kegunaan utama sistem basis data adalah agar pemakai mampu menyusun suatu pandangan  abstraksi data.
+
+2.DDL (Data Defition Language) adalah kumpulan perintah SQL yang dapat anda gunakan untuk mengelola, mengubah struktur datatype dari objek pada database seperti index, table, trigger, view dan lain sebagainya.
+
+3.DML adalah sekumpulan perintah yang di gunakan untuk melakukan pengelolaan database seperti membuat baru, menambah, menghapus dan menampilkan, perintah utamanya adalah seperti UPDATE, DELETE, INSERT, SELECT. Perintah UPDATE di gunakan ketika anda ingin melakukan pembaruan data, dan perintah delete di gunakan jika anda ingin menghapus data, selain itu ada juga perintah INSERT yang dapat anda gunakan untuk memasukan data ke dalam database, dan terakhir ada perintah SELECT yang di gunakan untuk menampilkan data yang telah anda masukan.
